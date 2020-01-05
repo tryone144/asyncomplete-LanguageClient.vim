@@ -31,7 +31,7 @@ The following features are currently not implemented:
 - [ ] Add option to disable loading of this plugin
 - [ ] Add support for whitelist/blacklist on when to register the LanguageClient
 - [ ] Add option to specify source priority (globally, or for each filetype)
-- [ ] Register the LanguageClient separately for each filetype
+- [x] Register the LanguageClient separately for each filetype
 
 If you want to contribute to the development feel free to submit a PR.
 
